@@ -8,6 +8,7 @@
 * [console](#console)
 * [expo](#expo)
 * [firebase](#firebase)
+* [firebase2](#firebase2)
 
 
 <a id = "flow">
@@ -92,6 +93,21 @@
   ```
   expo install firebase (or npm install firebase-tools)
   ```
+
+### [Return to Contents](#contents)
+
+
+<a id = "firebase2">
+
+## firebase2
+* ![Image](../src/Section02/images/fire2001.png)
+
+* commands
+
+* Pickup
+  * [リストと key](https://ja.reactjs.org/docs/lists-and-keys.html)
+  * [フック API リファレンス](https://ja.reactjs.org/docs/hooks-reference.html)
+  * [Source Code](https://github.com/takahi5/shop-review/tree/sec2/connect_firetore/shop-review-app)
 
 ### [Return to Contents](#contents)
 
