@@ -6,6 +6,7 @@
 
 * [Flow](#flow)
 * [introduction](#intro)
+* [console](#console)
 
 
 <a id = "flow">
@@ -26,6 +27,22 @@
 * ![Image](../src/Section02/images/intro005.png)
 * ![Image](../src/Section02/images/intro006.png)
 * ![Image](../src/Section02/images/intro007.png)
+
+### [Return to Contents](#contents)
+
+
+<a id = "console">
+
+## console
+* ![Image](../src/Section02/images/cons001.png)
+* ![Image](../src/Section02/images/cons002.png)
+* ![Image](../src/Section02/images/cons003.png)
+* ![Image](../src/Section02/images/cons004.png)
+* ![Image](../src/Section02/images/cons005.png)
+* ![Image](../src/Section02/images/cons006.png)
+* ![Image](../src/Section02/images/cons007.png)
+* ![Image](../src/Section02/images/cons008.png)
+* ![Image](../src/Section02/images/cons009.png)
 
 ### [Return to Contents](#contents)
 
