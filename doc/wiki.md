@@ -4,6 +4,9 @@
 
 * [All Textbook](https://nakanisi-yusuke.gitbooks.io/react-basic-udemy/content/)
 
+### Pickup
+* [Udemyコース「React NativeとFirebaseで作るiOS/Androidアプリ：お店レビューアプリ開発編」 のサンプルコード](https://github.com/takahi5/shop-review)
+
 
 <a id = "todo">
 
