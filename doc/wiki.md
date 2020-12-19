@@ -9,6 +9,9 @@
 * [Udemyコース「React NativeとFirebaseで作るiOS/Androidアプリ：お店レビューアプリ開発編」 のサンプルコード](https://github.com/takahi5/shop-review)
 * [Introduction to Expo](https://docs.expo.io/)
 
+### How to
+* Expo: Section02
+
 
 <a id = "sec01">
 

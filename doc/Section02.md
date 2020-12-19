@@ -3,10 +3,10 @@
 <a id = "contents">
 
 # Contents
-
 * [Flow](#flow)
 * [introduction](#intro)
 * [console](#console)
+* [expo](#expo)
 
 
 <a id = "flow">
@@ -43,6 +43,36 @@
 * ![Image](../src/Section02/images/cons007.png)
 * ![Image](../src/Section02/images/cons008.png)
 * ![Image](../src/Section02/images/cons009.png)
+
+### [Return to Contents](#contents)
+
+
+<a id = "expo">
+
+## expo
+* ![Image](../src/Section02/images/expo001.png)
+* ![Image](../src/Section02/images/expo002.png)
+* ![Image](../src/Section02/images/expo003.png)
+* ![Image](../src/Section02/images/expo004.png)
+* ![Image](../src/Section02/images/expo005.png)
+* ![Image](../src/Section02/images/expo006.png)
+* ![Image](../src/Section02/images/expo007.png)
+
+## commands
+  ```
+  mkdir shop-review
+  cd shop-review
+  ```
+  ```
+  npm install expo
+  npm install expo-cli
+  expo init shop-review-app (expo-template-blank-typescript)
+  ```
+  ```
+  npm install expo-cli
+  cd shop-review-app
+  expo start
+  ```
 
 ### [Return to Contents](#contents)
 
