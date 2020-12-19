@@ -8,8 +8,10 @@
 ### Pickup
 * [Udemyコース「React NativeとFirebaseで作るiOS/Androidアプリ：お店レビューアプリ開発編」 のサンプルコード](https://github.com/takahi5/shop-review)
 * [Introduction to Expo](https://docs.expo.io/)
+* [Using Firebase](https://docs.expo.io/guides/using-firebase/)
 
 ### How to
+* Firebase : Section02
 * Expo: Section02
 
 

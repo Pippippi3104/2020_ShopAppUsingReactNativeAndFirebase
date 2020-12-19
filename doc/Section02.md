@@ -7,6 +7,7 @@
 * [introduction](#intro)
 * [console](#console)
 * [expo](#expo)
+* [firebase](#firebase)
 
 
 <a id = "flow">
@@ -72,6 +73,24 @@
   npm install expo-cli
   cd shop-review-app
   expo start
+  ```
+
+### [Return to Contents](#contents)
+
+
+<a id = "firebase">
+
+## firebase
+* ![Image](../src/Section02/images/fire001.png)
+* ![Image](../src/Section02/images/fire002.png)
+* ![Image](../src/Section02/images/fire003.png)
+* ![Image](../src/Section02/images/fire004.png)
+* ![Image](../src/Section02/images/fire005.png)
+
+* commands
+  * work at shop-review-app
+  ```
+  expo install firebase (or npm install firebase-tools)
   ```
 
 ### [Return to Contents](#contents)
