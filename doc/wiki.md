@@ -7,6 +7,7 @@
 
 ### Pickup
 * [Udemyコース「React NativeとFirebaseで作るiOS/Androidアプリ：お店レビューアプリ開発編」 のサンプルコード](https://github.com/takahi5/shop-review)
+* [Introduction to Expo](https://docs.expo.io/)
 
 
 <a id = "sec01">
