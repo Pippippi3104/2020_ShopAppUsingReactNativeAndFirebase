@@ -13,17 +13,16 @@
 
 ## Section01_Introduction
 * Please check below.
-  * src/Introduction_Images
+  * src/Section01
 
 ### [Return to Contents](#contents)
 
 
 <a id = "sec02">
 
-## ## Section02_UseIt
+## Section02_UseIt
 * Please check below.
-  * src/todoapp01/src/
-  ![Image](../src/todoapp01/src/Images/TodoApp.png)
+  * src/Section02
 
 ### [Return to Contents](#contents)
 
