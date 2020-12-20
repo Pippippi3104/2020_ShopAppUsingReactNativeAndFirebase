@@ -1,4 +1,4 @@
-# First Step: use React Native and Firebase
+# Section02:React NativeアプリにFirebaseを組み込んでみよう
 
 <a id = "contents">
 
