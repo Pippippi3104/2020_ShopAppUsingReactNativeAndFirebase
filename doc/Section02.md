@@ -103,6 +103,8 @@
 
 ## firebase2
 * ![Image](../src/Section02/images/fire2001.png)
+* ![Image](../src/Section02/images/fire2002.png)
+* ![Image](../src/Section02/images/fire2003.png)
 
 * commands
 
