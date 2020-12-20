@@ -5,6 +5,7 @@
 # Contents
 * [Flow](#flow)
 * [prepare](#prepare)
+* [view](#view)
 
 ### Pickup
 * 
@@ -27,6 +28,20 @@
 
 ## use this
 * [Sample Data](https://github.com/takahi5/shop-review)
+
+### [Return to Contents](#contents)
+
+
+<a id = "view">
+
+## view
+* ![Image](../src/Section03/images/view001.png)
+
+## use this
+* [Sample Code](https://github.com/takahi5/shop-review/tree/sec3/shop-review-item/shop-review-app)
+* [FlatList](https://reactnative.dev/docs/flatlist)
+* [Search Icons](https://icons.expo.fyi/)
+* [Icons](https://docs.expo.io/guides/icons/)
 
 ### [Return to Contents](#contents)
 
