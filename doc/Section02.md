@@ -10,6 +10,8 @@
 * [firebase](#firebase)
 * [firebase2](#firebase2)
 
+### Pickup
+* [firebase.firestore() is not a function when trying to initialize Cloud Firestore](https://stackoverflow.com/questions/46636255/firebase-firestore-is-not-a-function-when-trying-to-initialize-cloud-firestore)
 
 <a id = "flow">
 
