@@ -11,6 +11,7 @@
 * [firebase2](#firebase2)
 * [firebase3](#firebase3)
 * [refactoring](#refactoring)
+* [conclusion](#conclusion)
 
 ### Pickup
 * [firebase.firestore() is not a function when trying to initialize Cloud Firestore](https://stackoverflow.com/questions/46636255/firebase-firestore-is-not-a-function-when-trying-to-initialize-cloud-firestore)
@@ -142,7 +143,18 @@
   ```
 
 * Pickup
-  * [firestoreのreferenceとかsnapshotで混乱したので整理してみた](https://qiita.com/takahi5/items/a07cc77f6f11c1bd973c)
+  * [expo-constants](https://docs.expo.io/versions/latest/sdk/constants/)
 
 ### [Return to Contents](#contents)
 
+
+<a id = "conclusion">
+
+## conclusion
+* ![Image](../src/Section02/images/conc01.png)
+
+* commands
+
+* Pickup
+
+### [Return to Contents](#contents)
