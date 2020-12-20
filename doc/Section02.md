@@ -9,6 +9,7 @@
 * [expo](#expo)
 * [firebase](#firebase)
 * [firebase2](#firebase2)
+* [firebase3](#firebase3)
 
 ### Pickup
 * [firebase.firestore() is not a function when trying to initialize Cloud Firestore](https://stackoverflow.com/questions/46636255/firebase-firestore-is-not-a-function-when-trying-to-initialize-cloud-firestore)
@@ -112,6 +113,19 @@
   * [リストと key](https://ja.reactjs.org/docs/lists-and-keys.html)
   * [フック API リファレンス](https://ja.reactjs.org/docs/hooks-reference.html)
   * [Source Code](https://github.com/takahi5/shop-review/tree/sec2/connect_firetore/shop-review-app)
+
+### [Return to Contents](#contents)
+
+
+<a id = "firebase3">
+
+## firebase3
+* ![Image](../src/Section02/images/fire3001.png)
+
+* commands
+
+* Pickup
+  * [firestoreのreferenceとかsnapshotで混乱したので整理してみた](https://qiita.com/takahi5/items/a07cc77f6f11c1bd973c)
 
 ### [Return to Contents](#contents)
 
