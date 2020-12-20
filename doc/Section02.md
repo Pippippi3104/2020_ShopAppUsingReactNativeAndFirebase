@@ -10,6 +10,7 @@
 * [firebase](#firebase)
 * [firebase2](#firebase2)
 * [firebase3](#firebase3)
+* [refactoring](#refactoring)
 
 ### Pickup
 * [firebase.firestore() is not a function when trying to initialize Cloud Firestore](https://stackoverflow.com/questions/46636255/firebase-firestore-is-not-a-function-when-trying-to-initialize-cloud-firestore)
@@ -129,4 +130,19 @@
 
 ### [Return to Contents](#contents)
 
+
+<a id = "refactoring">
+
+## refactoring
+* ![Image](../src/Section02/images/refac01.png)
+
+* commands
+  ```
+  yarn add expo-constants ( or npm install expo-constants)
+  ```
+
+* Pickup
+  * [firestoreのreferenceとかsnapshotで混乱したので整理してみた](https://qiita.com/takahi5/items/a07cc77f6f11c1bd973c)
+
+### [Return to Contents](#contents)
 
