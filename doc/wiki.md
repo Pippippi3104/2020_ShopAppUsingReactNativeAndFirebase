@@ -15,6 +15,7 @@
 ### How to
 * Firebase : Section02
 * Expo: Section02
+* React Navigation: Section04
 
 
 
