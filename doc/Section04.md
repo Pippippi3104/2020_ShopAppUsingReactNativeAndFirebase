@@ -5,6 +5,7 @@
 # Contents
 * [Flow](#flow)
 * [AppNavigation](#AppNavigation)
+* [SlackNavigator](#SlackNavigator)
 
 ### Pickup
 * 
@@ -48,5 +49,16 @@
 
 ## Pickup
 * [Source Code](https://github.com/takahi5/shop-review/tree/sec4/app-navigator/shop-review-app)
+
+### [Return to Contents](#contents)
+
+
+<a id = "SlackNavigator">
+
+## SlackNavigator
+* ![Image](../src/Section04/images/slackn001.png)
+
+## Pickup
+* [createStackNavigator](https://reactnavigation.org/docs/stack-navigator/)
 
 ### [Return to Contents](#contents)
