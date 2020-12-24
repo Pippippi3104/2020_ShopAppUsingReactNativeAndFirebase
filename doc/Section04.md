@@ -6,6 +6,7 @@
 * [Flow](#flow)
 * [AppNavigation](#AppNavigation)
 * [SlackNavigator](#SlackNavigator)
+* [Parameter](#Parameter)
 
 ### Pickup
 * 
@@ -60,5 +61,16 @@
 
 ## Pickup
 * [createStackNavigator](https://reactnavigation.org/docs/stack-navigator/)
+
+### [Return to Contents](#contents)
+
+
+<a id = "Parameter">
+
+## Parameter
+* ![Image](../src/Section04/images/param001.png)
+
+## Pickup
+* [Type checking with TypeScript](https://reactnavigation.org/docs/typescript/)
 
 ### [Return to Contents](#contents)
