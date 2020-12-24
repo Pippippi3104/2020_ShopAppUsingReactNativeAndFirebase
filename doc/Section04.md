@@ -7,6 +7,7 @@
 * [AppNavigation](#AppNavigation)
 * [SlackNavigator](#SlackNavigator)
 * [Parameter](#Parameter)
+* [TabNavigator](#TabNavigator)
 
 ### Pickup
 * 
@@ -72,5 +73,22 @@
 
 ## Pickup
 * [Type checking with TypeScript](https://reactnavigation.org/docs/typescript/)
+
+### [Return to Contents](#contents)
+
+
+<a id = "TabNavigator">
+
+## TabNavigator
+* ![Image](../src/Section04/images/tabn001.png)
+
+* commands
+  ```
+  yarn add react-native-screens
+  ```
+
+## Pickup
+* [createBottomTabNavigator](https://reactnavigation.org/docs/bottom-tab-navigator/)
+* [React Native で画面遷移やタブメニュー【react-navigation 5.x】](https://qiita.com/dhythm/items/125ab18844fe86ec4041)
 
 ### [Return to Contents](#contents)
