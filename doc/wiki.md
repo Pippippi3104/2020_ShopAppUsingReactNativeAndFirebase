@@ -13,11 +13,4 @@
 * [Introduction to Expo](https://docs.expo.io/)
 * [Using Firebase](https://docs.expo.io/guides/using-firebase/)
 
-### How to
-* Firebase : Section02
-* Expo: Section02
-* React Navigation: Section04
-
-
-
 
