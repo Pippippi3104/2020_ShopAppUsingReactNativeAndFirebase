@@ -8,6 +8,7 @@
 * [SlackNavigator](#SlackNavigator)
 * [Parameter](#Parameter)
 * [TabNavigator](#TabNavigator)
+* [Modal](#modal)
 
 ### Pickup
 * 
@@ -90,5 +91,16 @@
 ## Pickup
 * [createBottomTabNavigator](https://reactnavigation.org/docs/bottom-tab-navigator/)
 * [React Native で画面遷移やタブメニュー【react-navigation 5.x】](https://qiita.com/dhythm/items/125ab18844fe86ec4041)
+
+### [Return to Contents](#contents)
+
+
+<a id = "modal">
+
+## Modal
+* ![Image](../src/Section04/images/modal001.png)
+
+## Pickup
+* [https://reactnavigation.org/docs/modal/#creating-a-modal-stack](Creating a modal stack)
 
 ### [Return to Contents](#contents)
