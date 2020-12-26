@@ -7,6 +7,7 @@
 * [User Infomation](#UserInfomation)
 * [Denormalized](#Denormalized)
 * [Review](#Review)
+* [ImagePicker](#ImagePicker)
 
 ### Pickup
 * 
@@ -40,5 +41,21 @@
 
 ## Review
 * ![Image](../src/Section06/images/review001.png)
+
+### [Return to Contents](#contents)
+
+
+<a id = "ImagePicker">
+
+## ImagePicker
+* ![Image](../src/Section06/images/imagep001.png)
+
+* commands
+  ```
+  expo install expo-image-picker
+  ```
+
+## Pickup
+* [ImagePicker](https://docs.expo.io/versions/latest/sdk/imagepicker/)
 
 ### [Return to Contents](#contents)
