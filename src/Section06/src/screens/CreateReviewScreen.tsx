@@ -4,6 +4,7 @@ import firebase from "firebase";
 import {createReviewRef, uploadImage} from "../lib/firebase";
 import { pickImage } from "../lib/image-picker";
 import {UserContext} from "../contexts/userContexts";
+import {ReviewsContext} from "../contexts/reviewsContext";
 import {getExtention} from "../utils/file";
 /* components */
 import { IconButton } from "../components/IconButton";
@@ -32,6 +33,7 @@ export const CreateReviewScreen: React.FC<Props> = ({
   const {user} = useContext(UserContext);
   const [imageUri, setImageUri] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);
+  const { reviews, setReviews } = useContext(ReviewsContext);
 
   useLayoutEffect(() => {
     navigation.setOptions({
@@ -62,6 +64,7 @@ export const CreateReviewScreen: React.FC<Props> = ({
 
     //reviewドキュメントを作る
     const review = {
+      id: reviewRef.id,
       user: {
         name: user.name,
         id: user.id,
@@ -77,7 +80,8 @@ export const CreateReviewScreen: React.FC<Props> = ({
       createdAt: firebase.firestore.Timestamp.now(),
     } as Review;
     await reviewRef.set(review);
-
+    //レビュー一覧に即時反映する
+    setReviews([review, ...reviews]);
     setLoading(false);
     navigation.goBack();
   };
