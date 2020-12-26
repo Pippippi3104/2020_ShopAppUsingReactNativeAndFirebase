@@ -6,6 +6,7 @@
 * [Flow](#flow)
 * [User Infomation](#UserInfomation)
 * [Denormalized](#Denormalized)
+* [Review](#Review)
 
 ### Pickup
 * 
@@ -31,5 +32,13 @@
 
 ## Denormalized
 * ![Image](../src/Section06/images/denormalized001.png)
+
+### [Return to Contents](#contents)
+
+
+<a id = "Review">
+
+## Review
+* ![Image](../src/Section06/images/review001.png)
 
 ### [Return to Contents](#contents)
