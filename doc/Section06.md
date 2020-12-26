@@ -9,6 +9,7 @@
 * [Review](#Review)
 * [ImagePicker](#ImagePicker)
 * [CloudStrage](#CloudStrage)
+* [Review2](#Review2)
 
 ### Pickup
 * 
@@ -75,5 +76,22 @@
 
 ## Pickup
 * [テンプレートリテラル (テンプレート文字列)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Template_literals)
+
+### [Return to Contents](#contents)
+
+
+<a id = "Review2">
+
+## Review2
+* ![Image](../src/Section06/images/reviewsec001.png)
+* ※うまく動かない
+
+* commands
+   ```
+   yarn add moment
+   ```
+
+## Pickup
+* [Black Lives Matter](https://momentjs.com/)
 
 ### [Return to Contents](#contents)
