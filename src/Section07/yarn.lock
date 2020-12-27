@@ -7089,7 +7089,7 @@ find-yarn-workspace-root@~2.0.0:
   dependencies:
     micromatch "^4.0.2"
 
-firebase-tools@^9.0.1:
+firebase-tools@^9.1.0:
   version "9.1.0"
   resolved "https://registry.yarnpkg.com/firebase-tools/-/firebase-tools-9.1.0.tgz#fe548bd2a574352e2b4a3a1a644785f6af368e0f"
   integrity sha512-hTfxL2meJSl5WuwAS6bEJ5nay7tu3MNYb4ZL2KmPL7yLM3IeT+Qd2z1evHhW1VvbDXKR6RTwlBxzdWPs4l75kA==
@@ -10637,6 +10637,11 @@ mz@^2.7.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
+n@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/n/-/n-7.0.0.tgz#193aa6a09be53811321547cfa3134dff72e41e6a"
+  integrity sha512-OOfwnaMCToX3zRwhrNGMZNOdSyprPzhmdiunLjui+7NWDG9SDLp4KszqqwHOLq7+HZJ8NLdUvJ0pzrfGJ9FDVg==
+
 nan@^2.12.1, nan@^2.14.2:
   version "2.14.2"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.2.tgz#f5376400695168f4cc694ac9393d0c9585eeea19"
@@ -10832,6 +10837,11 @@ node-stream-zip@^1.9.1:
   version "1.12.0"
   resolved "https://registry.yarnpkg.com/node-stream-zip/-/node-stream-zip-1.12.0.tgz#f69af78799531b928662f4900d345387fa0b3777"
   integrity sha512-HZ3XehqShTFj9gHauRJ3Bri9eiCTOII7/crtXzURtT14NdnOFs9Ia5E82W7z3izVBNx760tqwddxrBJVG52Y1Q==
+
+nodenv@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/nodenv/-/nodenv-0.1.0.tgz#182315b3f1e54a74afb4af86d12a22e6b0e45882"
+  integrity sha1-GCMVs/HlSnSvtK+G0Soi5rDkWII=
 
 noop-fn@^1.0.0:
   version "1.0.0"
