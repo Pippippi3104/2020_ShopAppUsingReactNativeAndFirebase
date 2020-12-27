@@ -5,6 +5,7 @@
 # Contents
 * [Flow](#flow)
 * [CloudFunction](#CloudFunction)
+* [UserName](#UserName)
 
 ### Pickup
 * 
@@ -68,5 +69,31 @@
 ## Pickup
 * [Firebase CLI リファレンス](https://firebase.google.com/docs/cli)
 * [はじめに: 最初の関数の記述、テスト、デプロイ](https://firebase.google.com/docs/functions/get-started)
+
+### [Return to Contents](#contents)
+
+
+<a id = "UserName">
+
+## UserName
+* ![Image](../src/Section07/images/username001.png)
+
+* commands
+  * if you miss, 'unlink XXX'
+  ```
+  cd functions/lib/
+  ln -s ../../../src/types
+  ```
+
+  * deploy
+  ```
+  firebase deploy --only functions 
+  ```
+
+## Pickup
+* [Cloud Firestore トリガー](https://firebase.google.com/docs/functions/firestore-events)
+* [バッチ書き込み](https://firebase.google.com/docs/firestore/manage-data/transactions#batched-writes)
+* [コレクション グループクエリ](https://firebase.google.com/docs/firestore/query-data/queries#collection-group-query)
+* [シンボリックリンクの作成と削除](https://qiita.com/colorrabbit/items/2e99304bd92201261c60)
 
 ### [Return to Contents](#contents)
