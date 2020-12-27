@@ -23,6 +23,18 @@
 
 ## FlCloudFunctionow
 * ![Image](../src/Section07/images/cloud001.png)
+* ![Image](../src/Section07/images/cloud002.png)
+* ![Image](../src/Section07/images/cloud003.png)
+* ![Image](../src/Section07/images/cloud004.png)
+* ![Image](../src/Section07/images/cloud005.png)
+* ![Image](../src/Section07/images/cloud006.png)
+* ![Image](../src/Section07/images/cloud007.png)
+* ![Image](../src/Section07/images/cloud008.png)
+* ![Image](../src/Section07/images/cloud009.png)
+* ![Image](../src/Section07/images/cloud010.png)
+* ![Image](../src/Section07/images/cloud011.png)
+* ![Image](../src/Section07/images/cloud012.png)
+* ![Image](../src/Section07/images/cloud013.png)
 
 * commands
    ```
@@ -40,13 +52,13 @@
      * after : v10.19.0
      * [MacにNode.jsをnodebrewでインストールして環境構築【決定版】](https://qiita.com/7110/items/efe0be1be11bed1db143)
      * [インストールしている Node.js のバージョンをダウングレードさせるために n を使ってみる](https://zenn.dev/ymasaoka/articles/using-n-for-downgrade-nodejs)
-  * if you select tsc, run these commands
-   ```
-   yarn install
-   ```
-   ```
-   yarn build
-   ```
+    * if you select tsc, run these commands
+     ```
+     yarn install
+     ```
+     ```
+     yarn build
+     ```
   
   * deploy
     ```
