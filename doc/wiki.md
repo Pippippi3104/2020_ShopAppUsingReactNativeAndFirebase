@@ -8,6 +8,7 @@
 * Section04:React Nativeの遷移画面を実装しよう
 * Section05:Firebase auth でユーザー認証を実装しよう
 * Section06:Firestoreのデータを更新する
+* Section07:Cloud function でバックエンド処理を実装しよう
 
 ### Pickup
 * [Udemyコース「React NativeとFirebaseで作るiOS/Androidアプリ：お店レビューアプリ開発編」 のサンプルコード](https://github.com/takahi5/shop-review)
