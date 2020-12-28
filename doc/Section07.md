@@ -39,8 +39,8 @@
 
 * commands
    ```
-   npm install firebase-tools
    mkdir shop-review-firebase
+   npm install firebase-tools
    cd shop-review-firebase
    firebase login
    ```
@@ -55,6 +55,7 @@
      * [インストールしている Node.js のバージョンをダウングレードさせるために n を使ってみる](https://zenn.dev/ymasaoka/articles/using-n-for-downgrade-nodejs)
     * if you select tsc, run these commands
      ```
+     npm install firebase-functions
      yarn install
      ```
      ```
