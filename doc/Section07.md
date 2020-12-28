@@ -83,12 +83,21 @@
 
 ## UserName
 * ![Image](../src/Section07/images/username001.png)
+* ![Image](../src/Section07/images/username002.png)
+* ![Image](../src/Section07/images/username003.png)
+* ![Image](../src/Section07/images/username004.png)
+* ![Image](../src/Section07/images/username005.png)
+* ![Image](../src/Section07/images/username006.png)
 
 * commands
   * if you miss, 'unlink XXX'
   ```
   cd functions/lib/
-  ln -s ../../../src/types
+  ln -s ../../../../Section07/src/types
+  ```
+  * install @ functions/src
+  ```
+  npm install firebase-tools
   ```
 
   * deploy
