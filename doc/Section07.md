@@ -37,6 +37,10 @@
 * ![Image](../src/Section07/images/cloud012.png)
 * ![Image](../src/Section07/images/cloud013.png)
 
+* うまく動いたので追記する
+  * ![Image](../src/Section07/images/cloud014.png)
+  * ![Image](../src/Section07/images/cloud015.png)
+
 * commands
    ```
    mkdir shop-review-firebase
@@ -55,6 +59,7 @@
      * [インストールしている Node.js のバージョンをダウングレードさせるために n を使ってみる](https://zenn.dev/ymasaoka/articles/using-n-for-downgrade-nodejs)
     * if you select tsc, run these commands
      ```
+     npm install firebase-tools
      npm install firebase-functions
      yarn install
      ```
