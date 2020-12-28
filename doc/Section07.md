@@ -5,6 +5,7 @@
 # Contents
 * [Flow](#flow)
 * [CloudFunction](#CloudFunction)
+* [UserName](#UserName)
 
 ### Pickup
 * 
@@ -38,8 +39,8 @@
 
 * commands
    ```
-   npm install firebase-tools
    mkdir shop-review-firebase
+   npm install firebase-tools
    cd shop-review-firebase
    firebase login
    ```
@@ -54,6 +55,7 @@
      * [インストールしている Node.js のバージョンをダウングレードさせるために n を使ってみる](https://zenn.dev/ymasaoka/articles/using-n-for-downgrade-nodejs)
     * if you select tsc, run these commands
      ```
+     npm install firebase-functions
      yarn install
      ```
      ```
@@ -68,5 +70,31 @@
 ## Pickup
 * [Firebase CLI リファレンス](https://firebase.google.com/docs/cli)
 * [はじめに: 最初の関数の記述、テスト、デプロイ](https://firebase.google.com/docs/functions/get-started)
+
+### [Return to Contents](#contents)
+
+
+<a id = "UserName">
+
+## UserName
+* ![Image](../src/Section07/images/username001.png)
+
+* commands
+  * if you miss, 'unlink XXX'
+  ```
+  cd functions/lib/
+  ln -s ../../../src/types
+  ```
+
+  * deploy
+  ```
+  firebase deploy --only functions 
+  ```
+
+## Pickup
+* [Cloud Firestore トリガー](https://firebase.google.com/docs/functions/firestore-events)
+* [バッチ書き込み](https://firebase.google.com/docs/firestore/manage-data/transactions#batched-writes)
+* [コレクション グループクエリ](https://firebase.google.com/docs/firestore/query-data/queries#collection-group-query)
+* [シンボリックリンクの作成と削除](https://qiita.com/colorrabbit/items/2e99304bd92201261c60)
 
 ### [Return to Contents](#contents)
