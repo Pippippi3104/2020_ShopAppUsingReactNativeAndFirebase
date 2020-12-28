@@ -55,6 +55,7 @@
      * [インストールしている Node.js のバージョンをダウングレードさせるために n を使ってみる](https://zenn.dev/ymasaoka/articles/using-n-for-downgrade-nodejs)
     * if you select tsc, run these commands
      ```
+     npm install firebase-tools
      npm install firebase-functions
      yarn install
      ```
