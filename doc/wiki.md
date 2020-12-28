@@ -10,6 +10,7 @@
 * Section06:Firestoreのデータを更新する
 * Section07:Cloud function でバックエンド処理を実装しよう
 * Section08:セキュリティルールについて
+* Section09:algoliaで全文検索を実装しよう
 
 ### Pickup
 * [Udemyコース「React NativeとFirebaseで作るiOS/Androidアプリ：お店レビューアプリ開発編」 のサンプルコード](https://github.com/takahi5/shop-review)
