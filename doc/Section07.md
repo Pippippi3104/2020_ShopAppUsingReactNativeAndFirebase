@@ -6,6 +6,7 @@
 * [Flow](#flow)
 * [CloudFunction](#CloudFunction)
 * [UserName](#UserName)
+* [AverageScore](#AverageScore)
 
 ### Pickup
 * 
@@ -110,5 +111,20 @@
 * [バッチ書き込み](https://firebase.google.com/docs/firestore/manage-data/transactions#batched-writes)
 * [コレクション グループクエリ](https://firebase.google.com/docs/firestore/query-data/queries#collection-group-query)
 * [シンボリックリンクの作成と削除](https://qiita.com/colorrabbit/items/2e99304bd92201261c60)
+
+### [Return to Contents](#contents)
+
+
+<a id = "AverageScore">
+
+## AverageScore
+* ![Image](../src/Section07/images/ave001.png)
+
+* commands
+  ```
+  ```
+
+## Pickup
+* []()
 
 ### [Return to Contents](#contents)
