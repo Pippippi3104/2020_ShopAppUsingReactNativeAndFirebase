@@ -37,6 +37,10 @@
 * ![Image](../src/Section07/images/cloud012.png)
 * ![Image](../src/Section07/images/cloud013.png)
 
+* うまく動いたので追記する
+  * ![Image](../src/Section07/images/cloud014.png)
+  * ![Image](../src/Section07/images/cloud015.png)
+
 * commands
    ```
    mkdir shop-review-firebase
