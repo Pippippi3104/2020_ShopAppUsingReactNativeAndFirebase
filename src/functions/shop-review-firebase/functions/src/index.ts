@@ -3,6 +3,13 @@ import { User } from "./types/user";
 import { Review } from "./types/review";
 import { Shop } from "./types/shop";
 import admin = require("firebase-admin");
+import algoriasearch from "algoliasearch";
+
+const ALGOLIA_ID = functions.config().algolia.id;
+const ALGOLIA_ADMIN_KEY = functions.config().algolia.key;
+
+const clinet = algoriasearch(ALGOLIA_ID, ALGOLIA_ADMIN_KEY);
+const index = clinet.initIndex("reviews");
 
 admin.initializeApp();
 
@@ -35,7 +42,7 @@ exports.onUpdateUser = functions
     .region("asia-northeast1")
     .firestore.document("shops/{shopId}/reviews/{reviewId}")
     .onWrite(async (change, context) => {
-      const {shopId} = context.params;
+      const {shopId, reviewId} = context.params;
       const review = change.after.data() as Review;
 
       const db = admin.firestore();
@@ -94,6 +101,11 @@ exports.onUpdateUser = functions
           }
         } 
         await shopRef.update(params);
+
+        index.saveObject({
+          objectID: reviewId,
+          ...review,
+        });
       } catch(err) {
         console.log(err)
       }

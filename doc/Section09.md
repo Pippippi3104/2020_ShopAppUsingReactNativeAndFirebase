@@ -5,6 +5,7 @@
 # Contents
 * [Flow](#flow)
 * [algolia](#algolia)
+* [index](#index)
 
 ### Pickup
 * 
@@ -46,5 +47,44 @@
 ## Pickup
 * [環境の構成](https://firebase.google.com/docs/functions/config-env)
 * [algolia](https://www.algolia.com/)
+
+### [Return to Contents](#contents)
+
+
+<a id = "flow">
+
+## Flow
+* ![Image](../src/Section09/images/init001.png)
+* ![Image](../src/Section09/images/init002.png)
+
+## Pickup
+* [全文検索](https://firebase.google.com/docs/firestore/solutions/search)
+
+### [Return to Contents](#contents)
+
+
+<a id = "index">
+
+## index
+* ![Image](../src/Section09/images/index001.png)
+* ![Image](../src/Section09/images/index002.png)
+* ![Image](../src/Section09/images/index003.png)
+* ![Image](../src/Section09/images/index004.png)
+* ![Image](../src/Section09/images/index005.png)
+* ![Image](../src/Section09/images/index006.png)
+* ![Image](../src/Section09/images/index007.png)
+
+* commands
+  * @functions
+  ```
+  yarn add algoliasearch
+  ```
+  * @shop-review-app
+  ```
+  yarn add algoliasearch
+  ```
+
+## Pickup
+* 
 
 ### [Return to Contents](#contents)
