@@ -1,0 +1,65 @@
+Arguments: 
+  /usr/local/bin/node /Users/satoshishimamurasecond/Desktop/SatoshiShimamura/60_Udemy/2020_ShopAppUsingReactNativeAndFirebase/src/Section02/shop-review/shop-review-app/node_modules/.bin/yarn add expo-aonstants
+
+PATH: 
+  /Users/satoshishimamurasecond/Desktop/SatoshiShimamura/60_Udemy/2020_ShopAppUsingReactNativeAndFirebase/src/Section02/shop-review/shop-review-app/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.18.3
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/expo-aonstants: Not found
+      at Request.params.callback [as _callback] (/Users/satoshishimamurasecond/Desktop/SatoshiShimamura/60_Udemy/2020_ShopAppUsingReactNativeAndFirebase/src/Section02/shop-review/shop-review-app/node_modules/yarn/lib/cli.js:66988:18)
+      at Request.self.callback (/Users/satoshishimamurasecond/Desktop/SatoshiShimamura/60_Udemy/2020_ShopAppUsingReactNativeAndFirebase/src/Section02/shop-review/shop-review-app/node_modules/yarn/lib/cli.js:140662:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (/Users/satoshishimamurasecond/Desktop/SatoshiShimamura/60_Udemy/2020_ShopAppUsingReactNativeAndFirebase/src/Section02/shop-review/shop-review-app/node_modules/yarn/lib/cli.js:141634:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (/Users/satoshishimamurasecond/Desktop/SatoshiShimamura/60_Udemy/2020_ShopAppUsingReactNativeAndFirebase/src/Section02/shop-review/shop-review-app/node_modules/yarn/lib/cli.js:141556:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (_stream_readable.js:1220:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  {
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "eject": "expo eject"
+    },
+    "dependencies": {
+      "expo": "~40.0.0",
+      "expo-cli": "^4.0.15",
+      "expo-status-bar": "~1.0.3",
+      "firebase": "^7.9.0",
+      "firebase-tools": "^9.0.1",
+      "react": "16.13.1",
+      "react-dom": "16.13.1",
+      "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+      "react-native-web": "~0.13.12",
+      "yarn": "^1.22.10"
+    },
+    "devDependencies": {
+      "@babel/core": "~7.9.0",
+      "@types/react": "~16.9.35",
+      "@types/react-dom": "~16.9.8",
+      "@types/react-native": "~0.63.2",
+      "typescript": "~4.0.0"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
