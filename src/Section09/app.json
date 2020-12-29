@@ -28,6 +28,10 @@
         "messagingSenderId": "535817280943",
         "appId": "1:535817280943:web:b95d0eec3f7a4f0a81e35a",
         "measurementId": "G-Q31H7FD4M7"
+      },
+      "algolia":{
+        "appId": "5F6OB9CLS1",
+        "searchApiKey": "b063c974477251a823ed804a556daa90"
       }
     },
     "android": {
@@ -38,10 +42,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "algolia":{
-      "appId": "5F6OB9CLS1",
-      "searchApiKey": "b063c974477251a823ed804a556daa90"
     }
   }
 }

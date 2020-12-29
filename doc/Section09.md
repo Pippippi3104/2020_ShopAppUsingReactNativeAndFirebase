@@ -69,6 +69,10 @@
 * ![Image](../src/Section09/images/index001.png)
 * ![Image](../src/Section09/images/index002.png)
 * ![Image](../src/Section09/images/index003.png)
+* ![Image](../src/Section09/images/index004.png)
+* ![Image](../src/Section09/images/index005.png)
+* ![Image](../src/Section09/images/index006.png)
+* ![Image](../src/Section09/images/index007.png)
 
 * commands
   * @functions
