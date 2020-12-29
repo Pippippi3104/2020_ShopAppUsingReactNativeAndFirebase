@@ -5,8 +5,8 @@ import { Shop } from "./types/shop";
 import admin = require("firebase-admin");
 import algoriasearch from "algoliasearch";
 
-const ALGOLIA_ID = functions.config().algoria.id;
-const ALGOLIA_ADMIN_KEY = functions.config().algoria.key;
+const ALGOLIA_ID = functions.config().algolia.id;
+const ALGOLIA_ADMIN_KEY = functions.config().algolia.key;
 
 const clinet = algoriasearch(ALGOLIA_ID, ALGOLIA_ADMIN_KEY);
 const index = clinet.initIndex("reviews");

@@ -75,6 +75,10 @@
   ```
   yarn add algoliasearch
   ```
+  * @shop-review-app
+  ```
+  yarn add algoliasearch
+  ```
 
 ## Pickup
 * 
